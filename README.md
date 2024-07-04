@@ -19,4 +19,4 @@ It provides real-time weather data including temperature, humidity, wind speed, 
 - **Frontend**: HTML, CSS, JavaScript
 - **API**: OpenWeatherMap API
 
-
+## Deployed App
