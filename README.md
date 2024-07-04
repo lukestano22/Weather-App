@@ -20,3 +20,4 @@ It provides real-time weather data including temperature, humidity, wind speed, 
 - **API**: OpenWeatherMap API
 
 ## Deployed App
+https://lukestano22.github.io/Weather-App/
