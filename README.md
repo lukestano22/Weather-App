@@ -7,7 +7,7 @@ It provides real-time weather data including temperature, humidity, wind speed, 
 
 ## App displayed 
 
-
+<img width="937" alt="weatherApp" src="https://github.com/lukestano22/Weather-App/assets/147096339/9c702b15-90db-4170-975d-81c297295ae8">
 ## Features
 
 - **Current Weather**: Display current weather information based on user-selected city.
